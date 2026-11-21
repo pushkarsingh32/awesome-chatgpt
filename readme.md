@@ -242,6 +242,7 @@
 - [I Don't Care About Commit Message](https://github.com/mefengl/vscode-i-dont-care-about-commit-message) - Auto-generate commit messages and push actions in VS Code.
 - [Python Smart Exceptions](https://github.com/roma-guru/smart-exceptions) - AI-powered Python exceptions debugging.
 - [TextCraft](https://github.com/suncloudsmoon/TextCraft) - AI-powered Word add-in for text generation and proofreading.
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/integrations/chatgpt) - MCP connector that lets ChatGPT fetch YouTube video transcripts and list channel videos.
 
 ## Packages
 
